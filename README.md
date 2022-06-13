@@ -6,7 +6,6 @@
 - <b>Voice Chatbot w/ Voice Response & Speech Recognition
   - [AI Chatbot](https://github.com/koreylgray13/Voice-Chatbot) <b><i></b></i>
 
-<h2>💻 Visual Basic/Excel:</h2>
 
 
 
