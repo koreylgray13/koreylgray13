@@ -14,3 +14,8 @@
 [<img align="left" alt="KoreyGray | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/koreylgray/
+
+```bash
+git clone git@github.com:plaid/quickstart.git
+cd quickstart
+```
