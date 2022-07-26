@@ -15,7 +15,3 @@
 
 [linkedin]: https://linkedin.com/in/koreylgray/
 
-```bash
-git clone git@github.com:plaid/quickstart.git
-cd quickstart
-```
