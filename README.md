@@ -7,7 +7,7 @@
   - [AI Chatbot](https://github.com/koreylgray13/Voice-Chatbot) <b><i></b></i>
 - <b>Automation
   - [PC Report](https://github.com/koreylgray13/PC-Report) <b><i></b></i>
-- <b>Misc.
+- <b>Miscellaneous
   - [Translator](https://github.com/koreylgray13/PyTranslate) <b><i></b></i>
 
 
