@@ -3,15 +3,12 @@
 
 - <b>GUI Password Manager (Using Tkinter) <b>
   - [Password Manager](https://github.com/koreylgray13/GUI-Password-Manager) <b><i></b></i>
-  
 - <b>Voice Chatbot w/ Voice Response & Speech Recognition
   - [AI Chatbot](https://github.com/koreylgray13/Voice-Chatbot) <b><i></b></i>
-  
 - <b>Automation
   - [PC Report](https://github.com/koreylgray13/PC-Report) <b><i></b></i>
-
 - <b>Misc.
-  - [PC Report](https://github.com/koreylgray13/PyTranslate) <b><i></b></i>
+  - [Translator](https://github.com/koreylgray13/PyTranslate) <b><i></b></i>
 
 
 
