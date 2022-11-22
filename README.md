@@ -1,6 +1,8 @@
 <h1>Hi, I'm Korey!
 <h2>👨‍💻 Python Projects</h2>
 
+- <b>Personal Finance (Plaid API) <b>
+  - [Finance App](https://github.com/koreylgray13/Plaid-Finance) <b><i></b></i>
 - <b>GUI Password Manager (Using Tkinter) <b>
   - [Password Manager](https://github.com/koreylgray13/GUI-Password-Manager) <b><i></b></i>
 - <b>Voice Chatbot w/ Voice Response & Speech Recognition
