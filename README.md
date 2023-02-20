@@ -1,8 +1,6 @@
 <h1>Hi, I'm Korey!
 <h2>👨‍💻 Python Projects</h2>
 
-- <b>GUI w/ Python
-  - [Finance App](https://github.com/koreylgray13/Plaid-Finance) <b><i></b></i>
 
 
 
