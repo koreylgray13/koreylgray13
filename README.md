@@ -1,5 +1,4 @@
 <h1>Hi, I'm Korey!
-<h2>👨‍💻 Python Projects</h2>
 
 
 
