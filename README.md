@@ -4,7 +4,7 @@ I enjoy working on projects that incorporate financial analysis & automation. I 
 
 ## Projects
 
-### Personal Finance App (https://github.com/koreylgray13/Bolt-Finance)
+### [Personal Finance App](https://github.com/koreylgray13/Bolt-Finance)
 
 Web app using Django / Python & React / Javascript as well as the Plaid API. This app allows users to sign up & connect their bank accounts to export financial data.
 
