@@ -1,6 +1,6 @@
 # Hello, I'm Korey
 
-I enjoy working on projects that incorporate financial analysis as well as development. I also like working with data management & pipelines.
+I enjoy working on projects that incorporate financial analysis & automation. I also like working with data management & pipelines.
 
 ## Projects
 
